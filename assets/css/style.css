@@ -47,8 +47,8 @@ main .container{
 }
 main .container .primary{
     position: absolute;
-    top: 50px;
-    right: 380px;
+    top: 55px;
+    right: 300px;
 }
 main .container .secondary{
     width: 434px;
